@@ -1,1 +1,6 @@
 Proyek ini adalah program sederhana untuk menentukan apakah angka yang dimasukkan oleh pengguna adalah angka ganjil atau genap. Proyek ini dibangun menggunakan bahasa pemrograman Java dan berinteraksi dengan pengguna melalui antarmuka baris perintah (CLI). Program akan meminta pengguna untuk memasukkan sebuah angka, kemudian akan menampilkan pesan apakah angka tersebut adalah angka ganjil atau genap.
+Deskripsi Proyek
+Proyek ini adalah program sederhana untuk menentukan apakah angka yang dimasukkan oleh pengguna adalah angka ganjil atau genap. Proyek ini dibangun menggunakan bahasa pemrograman Java dan berinteraksi dengan pengguna melalui antarmuka baris perintah (CLI). Program akan meminta pengguna untuk memasukkan sebuah angka, kemudian akan menampilkan pesan apakah angka tersebut adalah angka ganjil atau genap.
+
+Struktur Proyek
+GanjilGenap.java: Kelas utama yang berisi metode main untuk menjalankan program. Kode ini mencakup logika untuk membaca input dari pengguna dan menentukan apakah angka yang dimasukkan ganjil atau genap.

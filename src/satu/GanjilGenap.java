@@ -2,7 +2,7 @@ package satu;
 
 import java.util.Scanner;
 
-class GanjilGenap {
+public class GanjilGenap {
     public static void main(String[] args) {
 
         Scanner input = getInput();
